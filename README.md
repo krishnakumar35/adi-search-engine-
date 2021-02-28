@@ -1,1 +1,1 @@
-# minict
+# minicht
